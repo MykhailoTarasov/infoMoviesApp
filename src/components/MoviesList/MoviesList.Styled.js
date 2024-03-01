@@ -18,6 +18,7 @@ padding-left: 20px;
 `
 export const Item = styled.li`
 display: flex;
+
 `
 
 export const StyledNavLink = styled(NavLink)`
